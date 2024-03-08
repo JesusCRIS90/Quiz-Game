@@ -16,7 +16,6 @@ const fetchAPI = async (apiUrl) => {
 const getData = async (apiUrl) => {
   try {
     const data = await fetchAPI(apiUrl);
-    // console.log("Data received:", data);
     return { status: "ok", data };
   } catch (error) {
     console.error("Fetch error:", error);

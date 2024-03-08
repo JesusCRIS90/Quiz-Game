@@ -61,12 +61,9 @@ function App() {
         })
       );
       if (data.status === "error") {
-        console.log(data);
         quizManager.setState("Error");
         setQuizManager(() => QuizManager.clone(quizManager));
       } else {
-        console.log(data);
-        // quizManager.setData(data.data);
         quizManager.setData(PrepareData(data.data));
         setQuizManager(() => QuizManager.clone(quizManager));
       }

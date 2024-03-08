@@ -1,0 +1,26 @@
+.result {
+  padding: 1rem 5rem;
+  background-color: var(--color-theme);
+  color: var(--color-light);
+  border-radius: 100px;
+
+  /* padding: 2rem 0; */
+  font-size: 1.8rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.highscore {
+  font-size: 1.8rem;
+  margin: 0rem 0rem;
+  padding: 1rem 0rem;
+}
+
+#restart {
+  margin: 3rem 0rem;
+  padding: 1rem 3rem;
+}
+
+.body-finish .quiz-constrolls {
+  gap: 15rem;
+}

@@ -1,0 +1,15 @@
+.header-quiz {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-quiz img {
+  width: 6rem;
+}
+
+.header-quiz h1 {
+  font-size: 3.2rem;
+  padding-left: 2rem;
+}

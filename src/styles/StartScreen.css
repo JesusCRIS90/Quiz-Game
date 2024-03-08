@@ -1,0 +1,32 @@
+.body-start {
+  padding: 4rem 0rem;
+}
+
+.body-start h2 {
+  margin: 0rem 0rem;
+  padding: 0rem 0rem;
+
+  font-size: 3rem;
+}
+
+.body-start h3 {
+  margin: 0rem 0rem;
+  padding: 2rem 0rem 3.5rem 0rem;
+
+  font-size: 1.5rem;
+}
+
+.body-start button {
+  display: block;
+
+  margin: 0rem 0rem;
+
+  padding: 1.2rem 2.4rem;
+
+  border: 2px solid var(--color-dark);
+  background-color: var(--color-dark);
+  cursor: pointer;
+  border-radius: 100px;
+
+  font-size: 1.2rem;
+}

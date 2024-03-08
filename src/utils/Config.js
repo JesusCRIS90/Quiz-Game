@@ -7,7 +7,7 @@ const QUIZ_DB_BASE_API = "https://opentdb.com/api.php";
 const SEC_PER_QUESTION = 30;
 
 const HEADER_INFO = {
-  logo: "../public/logo512.png",
+  logo: "./logo512.png",
   quizName: "Quiz Game",
 };
 

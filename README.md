@@ -11,4 +11,6 @@ This project was created as a way to improve my knowledge of React and JavaScrip
 * ✅ Score tracking system
 * ✅ Clean and responsive UI with React
 
+🔗 Live Demo: <a href="https://jesuscris90.github.io/Quiz-Game/" target="_blank">Live Demo</a>
+
 Feel free to explore, contribute, or suggest improvements! 🚀
